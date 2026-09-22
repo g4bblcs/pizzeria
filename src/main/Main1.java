@@ -1,5 +1,10 @@
 package main;
 
+import core.pedido.PedidoOnLine;
+import core.pedido.PedidoTelefono;
+import core.person.Cliente;
+import core.pizzeria.Item;
+import core.pizzeria.Pizzeria;
 import java.util.ArrayList;
 
 public class Main1 {
